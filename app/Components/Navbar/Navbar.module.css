@@ -1,0 +1,29 @@
+.menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background-color: #01246b;
+  box-sizing: border-box;
+  z-index: 1000;
+}
+
+.caixaTexto {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.texto {
+  color: #ffffff;
+  font-family: 'fonteTexto';
+}
+
+.logo > img {
+  width: 200px;
+}
