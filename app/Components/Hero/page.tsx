@@ -5,10 +5,7 @@ export default function Hero() {
     <>
       <div className={styles.linha}>
         <img
-          src="/YuppieLogoFinal.png"
-          className={styles.yuppie}
-          alt="Yuppie"
-        />
+          src="/YuppieLogoFinal.png" className={styles.yuppie} alt="Yuppie"/>
       </div>
 
       <div className={styles.banner}>
