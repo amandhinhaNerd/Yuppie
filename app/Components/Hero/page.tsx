@@ -1,10 +1,19 @@
 import styles from './Hero.module.css';
-import logo from 'YuppieLogoFinal.png';
 
-export default function Hero (props) {
-    return (
+export default function Hero() {
+  return (
     <div className={styles.linha}>
-       <img src={"public/YuppieLogoFinal.png"} className={styles.yuppie} />
+      <img
+        src="/YuppieLogoFinal.png"
+        className={styles.yuppie}
+        alt="Yuppie"
+      />
+
+      <div className={styles.banner}>
+        <h1>Bem-vindo à Yuppie!</h1>
+        <p>Encontre tudo o que você precisa.</p>
+        <button>Saiba mais</button>
+      </div>
     </div>
-    );
-  }
+  );
+}
