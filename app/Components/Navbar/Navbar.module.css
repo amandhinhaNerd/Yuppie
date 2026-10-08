@@ -23,5 +23,10 @@
   color: #ffffff;
   font-family: 'fonteTexto';
 }
-
-
+.logo{
+    width: 80px;
+  }
+  .yuppie{
+    width: 400px;
+    height: 245px;
+  }
