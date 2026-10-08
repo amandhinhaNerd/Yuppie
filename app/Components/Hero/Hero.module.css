@@ -1,8 +1,6 @@
 .linha {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    background-color: #411103 
+    border: none;       
+    height: 8px;          
+    background-color: #000; 
+    width: 100%
   }
