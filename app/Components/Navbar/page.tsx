@@ -5,6 +5,7 @@ export default function Navbar(props) {
     <div className={styles.menu}>
       <div className={styles.logo}>
         <img src={props.imagem} />
+        
       </div>
       </div>
   );

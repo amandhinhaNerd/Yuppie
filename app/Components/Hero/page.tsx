@@ -4,7 +4,7 @@ import logo from 'YuppieLogoFinal.png';
 export default function Hero (props) {
     return (
     <div className={styles.linha}>
-         <img src={"YuppieLogoFinal.png"} className={styles.yuppie} />
+       <img src={"public/YuppieLogoFinal.png"} className={styles.yuppie} />
     </div>
     );
   }
