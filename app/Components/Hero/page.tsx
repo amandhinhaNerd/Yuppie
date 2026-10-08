@@ -12,9 +12,6 @@ export default function Hero() {
       </div>
 
       <div className={styles.banner}>
-        <h1>Bem-vindo à Yuppie!</h1>
-        <p>Encontre tudo o que você precisa.</p>
-        <button>Saiba mais</button>
       </div>
     </>
   );
