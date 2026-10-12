@@ -13,20 +13,7 @@
   z-index: 1000;
 }
 
-.caixaTexto {
-  display: flex;
-  align-items: center;
-  gap: 25px;
-}
-
-.texto {
-  color: #ffffff;
-  font-family: 'fonteTexto';
-}
-.logo{
-    width: 80px;
-  }
-  .yuppie{
+  .imagem{
     width: 400px;
     height: 245px;
   }
