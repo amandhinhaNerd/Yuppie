@@ -4,7 +4,7 @@ import Hero from './Components/Hero/page';
 export default function Home() {
   return (
     <main>
-      <Navbar imagem ="YuppieLogoFinal.png"/>
+      <Navbar/>
       <Hero/>
     </main>
   );
