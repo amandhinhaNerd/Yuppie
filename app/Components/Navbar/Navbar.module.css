@@ -14,8 +14,7 @@
 }
 
 .imagem {
-  width: 200px;
-  height: 250px;
-  background-image: url('/YuppieLogoFinal.png');
-  background-size: cover;
+  width: 300px;
+  height: auto;
+  object-fit: contain;
 }
