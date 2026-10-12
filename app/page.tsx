@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Navbar />
-      <Hero imagem = "YuppieLogoFinal.png"/>
+      <Hero/>
     </main>
   );
 }
