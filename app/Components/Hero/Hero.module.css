@@ -5,20 +5,8 @@
   }
   
   .banner {
-    width: 1600px;
-    height: 500px;
-  
-    margin-top: 20px;
-  
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-  
-    overflow: hidden;
-  
-    background: yellow;
- 
+    height: auto;
+    object-fit: contain;
   }
   
   .banner h1 {
