@@ -6,6 +6,5 @@ export default function Hero() {
         <div className={styles.banner}>
         </div>
          </div>
-      
   );
 }
