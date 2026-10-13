@@ -4,7 +4,7 @@ export default function Catalogo(props) {
   return (
   <div>
      <div className={styles.fundo}>
-      <img className={styles.textoamarelinho} src={props.textoamarelinho} alt="LAVOISIER.png" />
+      <img className={styles.imagem} src={props.imagem} alt="LAVOISIER.png" />
      </div>
   </div>
   );
