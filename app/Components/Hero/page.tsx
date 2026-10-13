@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <div className={styles.linha}>
       <div className={styles.banner}>
-        <img src={imagem} alt="Banner Yuppie" />
+        <img src={styles.imagem} alt="Banner Yuppie" />
       </div>
     </div>
 
