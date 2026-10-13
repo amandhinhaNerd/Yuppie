@@ -4,17 +4,28 @@
   width: 100%;
 }
 
+
+.linha {
+  height: 95px;
+  background-color: #411103;
+  width: 100%;
+}
+
 .banner {
   position: relative;
   top: 55px;
-  width: 1440px;
+  width: 100%;
+  max-width: 1440px;
   height: 680px;
-  margin-top: 0px;
+  margin: 0 auto;
+
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+
   overflow: hidden;
+
   background-image: url('/BANNER1920X800.png');
   background-size: contain;
   background-position: center;
