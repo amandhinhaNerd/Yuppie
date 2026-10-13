@@ -1,20 +1,22 @@
-.linha {       
-    height: 95px;          
-    background-color: #411103;
-    width: 100%;
-  }
+.linha {
+  height: 95px;
+  background-color: #411103;
+  width: 100%;
+}
 
-  .banner {
-    position: relative;
-    top: 95px;
-    width: 1440px;
-    height: 678px;
-    margin-top: 0px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-     overflow: hidden;
-     background: yellow;
-    }
- 
+.banner {
+  position: relative;
+  top: 95px;
+  width: 1440px;
+  height: 678px;
+  margin-top: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-image: url('/BANNER1920X800.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
