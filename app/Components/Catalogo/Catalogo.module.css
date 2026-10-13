@@ -1,10 +1,7 @@
 .fundo{
   background-color: #411103;
   width: 100%;
-  min-height: 1000px;
+  min-height: 500px;
   margin: 0;
   padding: 0;
-  position: relative;
-  left: 0;
-  box-sizing: border-box;
 }
