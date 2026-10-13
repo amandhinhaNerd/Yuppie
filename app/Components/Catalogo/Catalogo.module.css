@@ -1,3 +1,5 @@
 .fundo{
   background-color: #411103;
+  width: 100%;
+  min-height: 500px;
 }
