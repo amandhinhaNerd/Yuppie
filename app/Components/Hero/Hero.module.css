@@ -16,7 +16,7 @@
   justify-content: center;
   overflow: hidden;
   background-image: url('/BANNER1920X800.png');
-  background-size: cover;
+  background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
 }
