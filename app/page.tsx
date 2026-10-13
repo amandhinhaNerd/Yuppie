@@ -6,6 +6,7 @@ export default function Home() {
     <main>
       <Navbar imagem="/YuppieLogoFinal.png"/>
       <Hero imagem="/BANNER1920X800.png"/>
+      <Catalogo/>
     </main>
   );
 }
