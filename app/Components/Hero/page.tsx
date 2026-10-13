@@ -3,10 +3,8 @@ import styles from './Hero.module.css';
 export default function Hero() {
   return (
     <div className={styles.linha}>
-      <div className={styles.banner}>
-        <img src={styles.imagem} alt="Banner Yuppie" />
+      <div className={styles.banner}/>
       </div>
-    </div>
 
   );
 }
