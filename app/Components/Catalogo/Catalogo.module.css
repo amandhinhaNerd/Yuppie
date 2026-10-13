@@ -4,3 +4,9 @@
   min-height: 2500px;
   box-sizing: border-box;
 }
+
+.textoamarelinho{
+  width: 105px;
+  height: auto;
+  object-fit: contain;
+}
