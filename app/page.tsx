@@ -6,7 +6,13 @@ import Rodape from './Components/Rodape/page';
 export default function Home() {
   return (
     <main>
-      <Navbar imagem="/YuppieLogoFinal.png" />
+      <Navbar 
+      imagem="/YuppieLogoFinal.png" 
+      home="HOME"
+      sobre="SOBRE NÓS"
+      materia="MATÉRIA"
+      imagem2="/lupa2.png"
+      />
       <Hero imagem="/BANNER1920X800.png" />
       <Catalogo
         imagem="/YUPPIE2.png"
