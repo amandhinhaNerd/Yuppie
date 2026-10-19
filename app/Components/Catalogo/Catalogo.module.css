@@ -31,9 +31,10 @@
 
 .imagem4{
   width: 1000px;
-  height: 500px;
+  height: 600px;
   position: relative;
   top: 1100px;
-  transform: rotate(-10deg);
+  left: 45px;
+  transform: rotate(-18deg);
   transform-origin: center;
 }
