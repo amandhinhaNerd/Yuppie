@@ -9,6 +9,9 @@ export default function Catalogo(props) {
       <img className={styles.imagem3} src={props.imagem3} />
       <img className={styles.imagem4} src={props.imagem4} />
       <img className={styles.imagem5} src={props.imagem5} />
+      <img className={styles.imagem6} src={props.imagem6} />
+      <img className={styles.imagem7} src={props.imagem7} />
+      <img className={styles.imagem8} src={props.imagem8} />
      </div>
   </div>
   );
