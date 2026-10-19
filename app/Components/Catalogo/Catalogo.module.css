@@ -45,6 +45,6 @@
   position: relative;
   top: 1000px;
   left: 330px;
-  transform: rotate(-45deg);
+  transform: rotate(25deg);
   transform-origin: center;
 }
