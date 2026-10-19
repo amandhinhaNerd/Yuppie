@@ -1,7 +1,7 @@
 .fundo {
   background-color: #411103;
   width: 100%;
-  min-height: 2500px;
+  min-height: 4000px;
   box-sizing: border-box;
 }
 
@@ -33,14 +33,5 @@
   width: 1000px;
   height: 500px;
   position: relative;
-  top: 1000px;
-  left: 180px;
-}
-
-.imagem5{
-  width: 1000px;
-  height: 500px;
-  position: relative;
   top: 1100px;
-  left: 200px;
 }

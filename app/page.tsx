@@ -1,8 +1,7 @@
 import Navbar from './Components/Navbar/page';
 import Hero from './Components/Hero/page';
 import Catalogo from './Components/Catalogo/page';
-
-
+import Rodape from '/Components/Rodape/page.tsx';
 export default function Home() {
   return (
     <main>
@@ -13,7 +12,7 @@ export default function Home() {
       imagem2="/LAVOISIER2.png"
       imagem3="/TEXTOPROPORÇÃO1520X800.png"
       imagem4="/consumo2.png"
-      imagem5="/consciente2.png"/>
+      imagem5=""/>
     </main>
   );
 }
