@@ -1,7 +1,8 @@
 import Navbar from './Components/Navbar/page';
 import Hero from './Components/Hero/page';
 import Catalogo from './Components/Catalogo/page';
-import Rodape from '/Components/Rodape/page.tsx';
+import Rodape from '/Components/Rodape/page';
+
 export default function Home() {
   return (
     <main>
