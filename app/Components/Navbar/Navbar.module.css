@@ -19,3 +19,19 @@
   object-fit: contain;
   transform: translate(100px, 2px);
 }
+
+.home{
+font-family: 'FonteTitulo';
+}
+
+.sobre{
+  font-family: 'FonteTitulo';
+}
+
+.materia{
+  font-family: 'FonteTitulo';
+}
+
+.imagem2{
+width: 50px;
+}
