@@ -11,7 +11,7 @@ export default function Home() {
       <Catalogo 
       imagem="/YUPPIE2.png"
       imagem2="/LAVOISIER2.png"
-      imagem3="/TEXTO PROPORÇÃO1520X800.png"/>
+      imagem3="/TEXTOPROPORÇÃO1520X800.png"/>
     </main>
   );
 }
