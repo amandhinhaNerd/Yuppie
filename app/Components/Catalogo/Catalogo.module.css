@@ -6,9 +6,10 @@
 }
 
 .imagem{
-  width: 80px;
-  height: 40px;
+  width: 620px;
+  height: 250px;
   position: relative;
-  top: 100px;
+  top: 580px;
+  left: 60px;
 }
 
