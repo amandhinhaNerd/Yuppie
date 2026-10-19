@@ -8,7 +8,9 @@ export default function Home() {
     <main>
       <Navbar imagem="/YuppieLogoFinal.png"/>
       <Hero imagem="/BANNER1920X800.png"/>
-      <Catalogo imagem="/YUPPIE2.png"/>
+      <Catalogo imagem="/YUPPIE2.png"
+      imagem2="/LAVOISIER2.png"
+      imagem3="/TEXTO PROPORÇÃO1520X800.png"/>
     </main>
   );
 }
