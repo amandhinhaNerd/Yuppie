@@ -12,11 +12,7 @@ export default function Home() {
         imagem2="/LAVOISIER2.png"
         imagem3="/TEXTOPROPORÇÃO1520X800.png"
         imagem4="/consumo2.png"
-        imagem5="/1.png"
-        imagem6="/"
-        imagem7="/"
-        imagem="/"
-      />
+        imagem5="/1.png" />
     </main>
   );
 }
