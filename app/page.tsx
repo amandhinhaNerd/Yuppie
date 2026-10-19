@@ -17,6 +17,7 @@ export default function Home() {
         imagem7="2.png"
         imagem8="3.png"
         imagem9="4.png" />
+      <Rodape />
     </main>
   );
 }
