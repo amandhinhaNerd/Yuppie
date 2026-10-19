@@ -43,8 +43,8 @@
   width: 1000px;
   height: 300px;
   position: relative;
-  top: 1000px;
-  left: 330px;
-  transform: rotate(25deg);
+  top: 1060px;
+  left: 320px;
+  transform: rotate(13deg);
   transform-origin: center;
 }
