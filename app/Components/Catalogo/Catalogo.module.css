@@ -40,5 +40,11 @@
 }
 
 .imagem5{
-  
+  width: 1000px;
+  height: 300px;
+  position: relative;
+  top: 1000px;
+  left: 330px;
+  transform: rotate(-10deg);
+  transform-origin: center;
 }
