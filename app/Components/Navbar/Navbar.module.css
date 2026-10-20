@@ -20,30 +20,8 @@
   transform: translate(100px, 2px);
 }
 
-.texto1 {
-  font-family: 'FonteTitulo';
-  position: fixed;
-  top: 30px;
-  left: 27px;
-}
-
-.texto2 {
-  font-family: 'FonteTitulo';
-  position: fixed;
-  top: 30px;
-  left: 49px;
-}
-
-.texto3 {
-  font-family: 'FonteTitulo';
-  position: fixed;
-  top: 30px;
-  left: 14px;
-}
-
 .imagem2 {
   width: 30px;
-  position: fixed;
-  top: 30px;
-  right: 50px;
+  top: 25px;
+  right: 70px;
 }
