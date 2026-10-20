@@ -4,6 +4,10 @@
     width: 100%;
 }
 
-.imagem1{}
+.imagem1{
+    width: 400px;
+}
 
-.imagem2{}
+.imagem2{
+    width: 30px;
+}
