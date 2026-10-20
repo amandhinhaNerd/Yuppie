@@ -4,7 +4,6 @@
   left: 0;
   height: 70px;
   width: 100%;
-  display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 10px;
@@ -47,3 +46,5 @@ right: 230px;
   top:21px;
   right: 80px;
 }
+
+

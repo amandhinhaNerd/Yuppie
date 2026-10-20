@@ -3,6 +3,7 @@
   width: 100%;
   min-height: 4000px;
   box-sizing: border-box;
+  display: flex;
 }
 
 .imagem {
@@ -79,3 +80,4 @@
   top: -850px;
   left: 183px;
 }
+
