@@ -23,12 +23,13 @@
 .texto1{
 font-family:'FonteTitulo';
 position: relative;
-right: 29px;
+left: 29px;
 }
 
 .texto2{
 font-family:'FonteTitulo';
 position: relative;
+right: 300px;
 }
 
 .texto3{
