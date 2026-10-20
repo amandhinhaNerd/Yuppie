@@ -22,27 +22,27 @@
 .home {
   font-family: 'FonteTitulo';
   position: fixed;
-  top: 82px;
+  top: 30px;
   left: 27%;
 }
 
 .sobre {
   font-family: 'FonteTitulo';
   position: fixed;
-  top: 82px;
+  top: 30px;
   left: 48%;
 }
 
 .materia {
   font-family: 'FonteTitulo';
   position: fixed;
-  top: 82px;
+  top: 30px;
   left: 72%;
 }
 
 .imagem2 {
   width: 30px;
   position: fixed;
-  top: 79px;
-  right: 15px;
+  top: 30px;
+  right: 70px;
 }
