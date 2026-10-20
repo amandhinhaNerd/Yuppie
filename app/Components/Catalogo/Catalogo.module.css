@@ -74,7 +74,8 @@
 }
 
 .imagem10 {
-  width: 200px;
-  margin-top: -900px;
-  margin-left: 135px;
+  width: 300px;
+  position: relative;
+  top: -850px;
+  left: 150px;
 }
