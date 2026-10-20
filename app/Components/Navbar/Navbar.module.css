@@ -20,11 +20,17 @@
   transform: translate(100px, 2px);
 }
 
-.texto1{}
+.texto1{
+font-family:'FonteTitulo';
+}
 
-.texto2{}
+.texto2{
+font-family:'FonteTitulo';
+}
 
-.texto3{}
+.texto3{
+font-family:'FonteTitulo';
+}
 
 .imagem2{
   width: 30px;
