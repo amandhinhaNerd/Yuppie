@@ -19,25 +19,26 @@
   object-fit: contain;
   transform: translate(100px, 2px);
 }
+
 .home {
   font-family: 'FonteTitulo';
   position: fixed;
   top: 30px;
-  left: 27%;
+  left: 50px;
 }
 
 .sobre {
   font-family: 'FonteTitulo';
   position: fixed;
   top: 30px;
-  left: 48%;
+  left: 50px;
 }
 
 .materia {
   font-family: 'FonteTitulo';
   position: fixed;
   top: 30px;
-  left: 72%;
+  left: 50px;
 }
 
 .imagem2 {
