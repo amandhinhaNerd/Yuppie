@@ -13,15 +13,6 @@
   z-index: 1000;
 }
 
-.texto1,
-.texto2,
-.texto3 {
-  font-family: 'FonteTitulo';
-  position: relative;
-  color: black;
-  z-index: 1001;
-}
-
 .imagem {
   width: 105px;
   height: auto;
@@ -29,3 +20,12 @@
   transform: translate(100px, 2px);
 }
 
+.texto1,
+.texto2,
+.texto3 {
+  font-family: 'FonteTitulo';
+  position: relative;
+  color: black;
+  background-color: yellow;
+  z-index: 1001;
+}
