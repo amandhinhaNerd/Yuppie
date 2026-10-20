@@ -13,6 +13,7 @@ export default function Catalogo(props) {
       <img className={styles.imagem7} src={props.imagem7} />
       <img className={styles.imagem8} src={props.imagem8} />
       <img className={styles.imagem9} src={props.imagem9} />
+      <img className={styles.imagem10} src={props.imagem10} />
      </div>
   </div>
   );

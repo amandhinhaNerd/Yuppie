@@ -20,11 +20,12 @@ export default function Home() {
         imagem2="/LAVOISIER2.png"
         imagem3="/TEXTOPROPORÇÃO1520X800.png"
         imagem4="/consumo2.png"
-        imagem5="consciente2.png"
-        imagem6="1.png"
-        imagem7="2.png"
-        imagem8="3.png"
-        imagem9="4.png" />
+        imagem5="/consciente2.png"
+        imagem6="/1.png"
+        imagem7="/2.png"
+        imagem8="/3.png"
+        imagem9="/4.png"
+        imagem10="/tendenciassustentaveiscerto.png" />
       <Rodape />
     </main>
   );
