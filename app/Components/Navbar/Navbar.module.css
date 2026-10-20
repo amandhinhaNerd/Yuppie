@@ -23,20 +23,25 @@
 .texto1{
 font-family:'FonteTitulo';
 position: relative;
-left: 29px;
+top:55px;
+right: 400px;
 }
 
 .texto2{
 font-family:'FonteTitulo';
 position: relative;
-right: 300px;
+top:21px;
+right: 250px;
 }
 
 .texto3{
 font-family:'FonteTitulo';
 position: relative;
+top:-13px;
+right: 250px;
 }
 
 .imagem2{
   width: 30px;
+  top:-2px;
 }
