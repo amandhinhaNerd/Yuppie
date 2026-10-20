@@ -1,13 +1,15 @@
 .materia{
-    height: 95px;
+    min-height: 100vh;
     background-color: #132216;
     width: 100%;
+    box-sizing: border-box;
 }
 
 .imagem1{
     width: 400px;
 }
 
-.imagem2{
+.imagem2 {
     width: 30px;
+    height: auto;
 }
