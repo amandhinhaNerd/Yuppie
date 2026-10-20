@@ -21,21 +21,21 @@
 }
 
 .texto1{
-font-family:'FonteTitulo';
+font-family:'fontetitulo';
 position: relative;
 top:55px;
 right: 400px;
 }
 
 .texto2{
-font-family:'FonteTitulo';
+font-family:'fontetitulo';
 position: relative;
 top:21px;
 right: 250px;
 }
 
 .texto3{
-font-family:'FonteTitulo';
+font-family:'fontetitulo';
 position: relative;
 top:-13px;
 right: 250px;
