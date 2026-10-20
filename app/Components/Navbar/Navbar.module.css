@@ -20,20 +20,17 @@
   transform: translate(100px, 2px);
 }
 
-.texto1{
+.texto1 {
   font-family: 'FonteTitulo';
   position: relative;
-  color: #411103 ;
 }
 
-.texto2{
+.texto2 {
   font-family: 'FonteTitulo';
   position: relative;
-  color: #411103 ;
 }
 
-.texto3{
+.texto3 {
   font-family: 'FonteTitulo';
   position: relative;
-  color: #411103 ;
 }
