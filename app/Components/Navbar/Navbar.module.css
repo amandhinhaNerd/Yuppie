@@ -22,21 +22,21 @@
 
 .texto1 {
   font-family: 'FonteTitulo';
-  
+  position: fixed;
   top: 30px;
   left: 27px;
 }
 
 .texto2 {
   font-family: 'FonteTitulo';
-  
+  position: fixed;
   top: 30px;
   left: 49px;
 }
 
 .texto3 {
   font-family: 'FonteTitulo';
- 
+  position: fixed;
   top: 30px;
   left: 14px;
 }
