@@ -8,9 +8,9 @@ export default function Home() {
     <main>
       <Navbar 
       imagem="/YuppieLogoFinal.png" 
-      texto1="HOME"
-      texto2="SOBRE NÓS"
-      texto3="MATÉRIA"
+      home="HOME"
+      sobre="SOBRE NÓS"
+      materia="MATÉRIA"
       imagem2="/lupa2.png"
       />
       <Hero imagem="/BANNER1920X800.png" />
