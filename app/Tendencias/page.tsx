@@ -10,7 +10,7 @@ export default function Tendencias() {
 
       <img
         className={styles.imagem2}
-        src="/materia.png"
+        src="/MATERIA.png"
       />
     </div>
   );

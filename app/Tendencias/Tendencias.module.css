@@ -7,9 +7,14 @@
 
 .imagem1{
     width: 400px;
+    position: relative;
+    top: 150px;
+    left: -20px;
 }
 
 .imagem2 {
-    width: 30px;
-    height: auto;
+  width: 1000px;
+  position: relative;
+  top: -750px;
+  left: 150px;
 }
