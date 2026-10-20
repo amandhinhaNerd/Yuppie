@@ -20,21 +20,21 @@
   transform: translate(100px, 2px);
 }
 
-.home {
+.texto1 {
   font-family: 'FonteTitulo';
   
   top: 30px;
   left: 27px;
 }
 
-.sobre {
+.texto2 {
   font-family: 'FonteTitulo';
   
   top: 30px;
   left: 49px;
 }
 
-.materia {
+.texto3 {
   font-family: 'FonteTitulo';
  
   top: 30px;
