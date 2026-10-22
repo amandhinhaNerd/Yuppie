@@ -8,47 +8,35 @@
 }
 
 .imagem {
-  width: 620px;
-  height: 250px;
+  width: 40%;
   align-self: start;
   margin-bottom: 200px;
+  margin-left: 50px;
 }
 
 .imagem2 {
-  width: 970px;
-  height: 160px;
-  position: relative;
+  width: 80%;
   margin-bottom: 200px;
-  /* top: 740px; */
-  /* left: 160px; */
 }
 
 .imagem3 {
-  width: 1000px;
-  height: 500px;
+  width: 80%;
   position: relative;
-  /* top: 900px; */
-  /* left: 180px; */
 }
 
 .imagem4 {
-  width: 1000px;
-  height: 600px;
-  /* position: relative; */
-  /* top: 1100px; */
-  /* left: 45px; */
+  width: 70%;
   transform: rotate(-18deg);
-  transform-origin: center;
+  transform-origin: center;  
+  margin-bottom: -50px;
+
 }
 
 .imagem5 {
-  width: 1000px;
-  height: 300px;
-  /* position: relative; */
-  /* top: 1060px; */
-  /* left: 320px; */
+  width: 80%;
   transform: rotate(13deg);
   transform-origin: center;
+  margin-bottom: -250px;
 }
 
 .imagem6 {
@@ -70,8 +58,6 @@
 .imagem10 {
   width: 300px;
   position: relative;
-  /* top: -850px; */
-  /* left: 183px; */
 }
 
 .catalogo{
