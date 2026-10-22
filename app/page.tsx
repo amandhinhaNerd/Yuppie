@@ -15,7 +15,7 @@ export default function Home() {
       materia="MATÉRIA"
       imagem2="/lupa2.png"
       />
-      <Hero imagem="/BANNER1920X800.png" />
+      <Hero/>
       <Catalogo
         imagem="/YUPPIE2.png"
         imagem2="/LAVOISIER2.png"
