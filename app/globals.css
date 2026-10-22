@@ -5,8 +5,14 @@
 
 body {
     margin: 0;
+    background-color: #411103;
 }
 
+main{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
 
 
 @media (max-width: 600px) {

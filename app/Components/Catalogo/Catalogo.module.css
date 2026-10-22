@@ -1,41 +1,42 @@
 .fundo {
   background-color: #411103;
   width: 100%;
-  min-height: 4000px;
   box-sizing: border-box;
   display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .imagem {
   width: 620px;
   height: 250px;
-  position: relative;
-  top: 580px;
-  left: 60px;
+  align-self: start;
+  margin-bottom: 200px;
 }
 
 .imagem2 {
   width: 970px;
   height: 160px;
   position: relative;
-  top: 740px;
-  left: 160px;
+  margin-bottom: 200px;
+  /* top: 740px; */
+  /* left: 160px; */
 }
 
 .imagem3 {
   width: 1000px;
   height: 500px;
   position: relative;
-  top: 900px;
-  left: 180px;
+  /* top: 900px; */
+  /* left: 180px; */
 }
 
 .imagem4 {
   width: 1000px;
   height: 600px;
-  position: relative;
-  top: 1100px;
-  left: 45px;
+  /* position: relative; */
+  /* top: 1100px; */
+  /* left: 45px; */
   transform: rotate(-18deg);
   transform-origin: center;
 }
@@ -43,41 +44,46 @@
 .imagem5 {
   width: 1000px;
   height: 300px;
-  position: relative;
-  top: 1060px;
-  left: 320px;
+  /* position: relative; */
+  /* top: 1060px; */
+  /* left: 320px; */
   transform: rotate(13deg);
   transform-origin: center;
 }
 
 .imagem6 {
-  margin-top: 940px;
   width: 350px;
-  margin-left: 160px;
 }
 
 .imagem7 {
-  margin-top: 940px;
   width: 350px;
-  margin-left: 20px;
 }
 
 .imagem8 {
-  margin-top: 940px;
   width: 350px;
-  margin-left: 20px;
 }
 
 .imagem9 {
-  margin-top: 15px;
   width: 1090px;
-  margin-left: 160px;
 }
 
 .imagem10 {
   width: 300px;
   position: relative;
-  top: -850px;
-  left: 183px;
+  /* top: -850px; */
+  /* left: 183px; */
+}
+
+.catalogo{
+  margin-top: 200px;
+  margin-bottom: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.catalogo > div{
+  display: flex;
+  gap: 20px;
 }
 

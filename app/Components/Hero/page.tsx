@@ -4,7 +4,7 @@ export default function Hero() {
   return (
     <div className={styles.linha}>
       <div className={styles.banner}/>
-      </div>
+    </div>
 
   );
 }

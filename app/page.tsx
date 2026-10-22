@@ -28,6 +28,7 @@ export default function Home() {
         imagem9="/4.png"
         imagem10="/tendenciassustentaveiscerto.png" />
       <Rodape />
+
     </main>
   );
 }
